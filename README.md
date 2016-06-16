@@ -4,3 +4,6 @@ Contains:
 i.  jupyter notebook to do TR Open Calais tagging
 ii. jupyter notebook for permid search
 iii. slides for presentation
+
+Video presentation 
+https://engineers.sg/v/781
